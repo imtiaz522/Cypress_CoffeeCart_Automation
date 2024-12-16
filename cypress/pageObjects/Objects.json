@@ -1,0 +1,17 @@
+{
+    "Coffecart_Objects": {
+        "mocha_obj": "[data-cy='Mocha']",
+        "americano_obj": "[data-cy='Americano']",
+        "espresso_obj": "[data-cy='Espresso']",
+        "cart_obj": ":nth-child(2) > a",
+        "total_obj": "[data-test='checkout']",
+        "payments_popup": ".modal-content",
+        "close_btn": ".close",
+        "mousehover_total_obj": "[data-test='checkout']",
+        "itemdAdded_txt": "//*[@id='app']/div[2]/div[1]/ul/li[1]/div[1]/span[1]",
+        "cartdetails_add_btn": "//*[@id=\"app\"]/div[2]/div[1]/ul/li[2]/div[2]/button[1]",                          
+        "cartdetails_added_txt": "//*[@id=\"app\"]/div[2]/div[1]/ul/li[2]/div[1]/span[2]",
+        "promo_msg": ".promo",
+        "promo_yes_btn": ".yes"
+    }
+}
