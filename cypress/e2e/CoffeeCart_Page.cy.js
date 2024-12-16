@@ -1,7 +1,7 @@
 //Import the coffeeCart_Actions page, which has all the actions required for CoffeeCart Page
 import { coffeeCart_Actions } from "../pageActions/coffeeCart_Actions.cy.js"
 
-//Create an object for coffeeCart_Actions Class
+//Create an object for coffeeCart_Actions Class. 
 const coffeeCartActions_obj = new coffeeCart_Actions();
 
 describe('Coffee Cart Task Automation', () => {
